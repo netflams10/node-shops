@@ -1,0 +1,20 @@
+{
+  "name": "node-shops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netflams10/node-shops.git"
+  },
+  "author": "Segun Opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netflams10/node-shops/issues"
+  },
+  "homepage": "https://github.com/netflams10/node-shops#readme"
+}
